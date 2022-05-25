@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Researcher
     company: University of Cologne
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Cologne
     date_start: '2022-02-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Doctoral Researcher
     company: Max Planck Institute for the Study of Societies & University of Cologne
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Cologne
     date_start: '2017-10-01'
     date_end: '2022-01-31'
@@ -42,7 +42,7 @@ experience:
   - title: Researcher
     company: Social Policy Forum of Bogazici University
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Istanbul
     date_start: '2015-09-01'
     date_end: '2017-09-30'
