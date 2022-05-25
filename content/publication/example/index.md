@@ -1,18 +1,12 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Social care is an immature welfare policy domain in Turkey, with three distinctive characteristics: the central role of the family, limited public expenditure, and low levels of institutionalization and professionalization. However, following local legislative reform in 2004, municipalities have become important actors in social care provision, initiating social care programs for local citizens. This article fills a gap in the existing literature by focusing on the smallest administrative units of the local welfare system: the district municipalities. The article explores and compares the emerging role of district municipalities in social care provision in selected districts of Istanbul to assess, in the context of an immature welfare system, how far they fulfill the principle of universal provision. It finds that while service provision capacity was increased by localization to an extent, the social care provision capacity that district municipalities developed is not sufficient to transform social care policies into one that conforms to the principle of universalism. Due to coordination problems and the wide service area defined by the law, district municipalities ‘pick and choose’ service beneficiaries, instead of ensuring equal access for all local citizens.
 author_notes:
 - Equal contribution
-- Equal contribution
+
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+
+date: "2020-03-05T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,16 +15,15 @@ image:
   preview_only: false
 projects:
 - example
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Journal of International Social Work*
+publication_short: In *ISW*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Rescaling social care services: The case of district municipalities in Istanbul
 tags: []
-title: An example conference paper
+title: Rescaling social care services: The case of district municipalities in Istanbul
 url_code: ""
 url_dataset: ""
 url_pdf: ""
