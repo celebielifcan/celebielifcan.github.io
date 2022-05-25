@@ -31,7 +31,7 @@ publication_short: In *ISW*
 abstract: Social care is an immature welfare policy domain in Turkey, with three distinctive characteristic, the central role of the family, limited public expenditure, and low levels of institutionalization and professionalization. However, following local legislative reform in 2004, municipalities have become important actors in social care provision, initiating social care programs for local citizens. This article fills a gap in the existing literature by focusing on the smallest administrative units of the local welfare system, the district municipalities. The article explores and compares the emerging role of district municipalities in social care provision in selected districts of Istanbul to assess, in the context of an immature welfare system, how far they fulfill the principle of universal provision. It finds that while service provision capacity was increased by localization to an extent, the social care provision capacity that district municipalities developed is not sufficient to transform social care policies into one that conforms to the principle of universalism. Due to coordination problems and the wide service area defined by the law, district municipalities ‘pick and choose’ service beneficiaries, instead of ensuring equal access for all local citizens.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The article explores and compares the emerging role of district municipalities in social care provision in selected districts of Istanbul.
 
 tags: []
 
