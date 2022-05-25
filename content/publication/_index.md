@@ -1,4 +1,6 @@
 ---
+active: false
+
 cms_exclude: true
 header:
   caption: ""
